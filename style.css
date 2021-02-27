@@ -1,0 +1,31 @@
+.blog-header-logo {
+  font-family: "Open Sans", serif;
+  font-size: 2.25rem;
+}
+.blog-header {
+  line-height: 1;
+  border-bottom: 1px solid #cecece;
+}
+
+.nav-link {
+  color: grey !important;
+  text-decoration: underline !important;
+}
+
+.image {
+  width: auto;
+}
+
+.blog-footer {
+  padding: 2.5rem;
+  border-top: 1px solid #e5e5e5;
+  background-color: #f9f9f9;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Open Sans", serif;
+}
